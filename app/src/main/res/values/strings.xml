@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMVPDemo</string>
+    <string name="appbar_scrolling_view_behavior">appbar</string>
+</resources>
